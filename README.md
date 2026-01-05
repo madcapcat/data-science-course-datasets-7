@@ -1,7 +1,7 @@
 # data-science-course-datasets-7
-Netflix Movies and TV Shows
+Metadata on ~5,000 movies from TMDb
 
-Netflix Movies and TV Shows
-About this Dataset: Netflix is one of the most popular media and video streaming platforms. 
-They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. 
-This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
+Background
+What can we say about the success of a movie before it is released? Are there certain companies (Pixar?) that have found a consistent formula? Given that major films costing over $100 million to produce can still flop, this question is more important than ever to the industry. Film aficionados might have different interests. Can we predict which films will be highly rated, whether or not they are a commercial success?
+
+This is a great place to start digging in to those questions, with data on the plot, cast, crew, budget, and revenues of several thousand films.
